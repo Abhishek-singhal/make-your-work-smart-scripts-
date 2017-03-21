@@ -50,6 +50,7 @@ while (i<j):
         else:
             print("NO" + str(i))
     i=i+1
+    #flag is iiita_GaMeIsOver
     k=0
 
 
